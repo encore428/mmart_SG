@@ -3,6 +3,8 @@
 This repository was created by the command `npx styleguidist build`, which generated this folder that contains
 html materials that documents and presents selective components of the application `mmart`.
 
+This Styleguide has been deployed to https://silly-pike-766f6d.netlify.app/.
+
 The processing of applying StyleGuidist to the app:
 
 1. You have to install StyleGuidist: `npm install react-styleguidist`.
